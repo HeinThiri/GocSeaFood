@@ -1,0 +1,85 @@
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+}
+.mt-n1-9 {
+    margin-top: -1.9rem!important;
+}
+.card-style3 {
+    box-shadow: 0 3px 6px 0 #dee2e6b0;
+}
+.card-style3 {
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 3px 6px 0 #dee2e6b0;
+}
+.sg-blog {
+    padding: 18px 25px;
+}
+.butn-style3 {
+    background: unset;
+    padding: 15px 0;
+    text-transform: unset;
+    border: none;
+}
+.blog3 .blog-box {
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    padding: 3rem 0;
+    margin: 1px 1px 1px 50px;
+    align-items: center;
+    border-radius: 0.25rem;
+}
+.blog3 .blog-img {
+    margin-left: -50px;
+}
+.text-primary {
+    color: #4B72AB !important;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .h1 a, .h2 a, .h3 a, .h4 a, .h5 a, .h6 a {
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #002a5c;
+    text-decoration: none;
+}
+@media screen and (min-width: 1200px){
+    .w-xl-90 {
+        width: 90%;
+    }
+}
+.blog3 .blog-box .blog-text {
+    padding: 0 2rem;
+}
+.btn-indicator{
+    width: 20px;
+    height: 5px;
+}
+.butn-style1.fill {
+    background: linear-gradient(to right, #eb3349, #f45c43);
+    border: unset;
+}
+.butn-style1 {
+    border-radius: 40px;
+    padding: 5px 30px;
+    font-size: 14px;
+    font-weight: normal;
+    text-decoration: none;
+}
+p {
+    margin: 0 0 20px;
+}
+.modal-title {
+    font-size: 1rem;
+    color: #c38e44;
+}
+.modal-dialog {
+    max-width: 800px;
+}
+.title-style1 h2 {
+    position: relative;
+    display: block;
+    margin-bottom: 20px;
+    padding: 0 0 20px;
+}
